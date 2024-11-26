@@ -1,37 +1,37 @@
-# NTX Data Engineer Technical Assessment Guidelines
+
+# 🚀 NTX Data Engineer Technical Assessment Guidelines 🚀
+
+Hey there, Candidate!
+
+We’ve put together a set of exciting challenges that are designed to bring out the best in your skills! Think of this as an opportunity to flex your technical muscles, problem-solving genius, and attention to detail. It's not just about the destination – it’s all about the journey. And we can't wait to see how you tackle these challenges!
 
 ---
 
-Dear Candidate,
+### 🏁 **Repository Overview**:
 
-We've crafted a set of challenges that we believe will showcase your strengths and expertise. This assessment is designed not just to test your technical prowess, but also your analytical thinking, problem-solving capabilities, and attention to detail.
+This repository is your playground, packed with four structured challenge directories:
+- **Soal 1** – Data Transformation and Analysis Case
+- **Soal 2** – SQL Case
+- **Soal 3** – ETL Case
 
----
+Each challenge folder comes with its own **README.md** file packed with context and instructions. Trust us, reading these carefully will make your life easier and your solutions even better. 😎
 
-### Overview of the Repository:
-
-This repository houses four structured challenge directories: 
-- **Soal 1** - Data Transformation and Analysis Case
-- **Soal 2** - Docker Application Case
-- **Soal 3** - Data Collection and Scraping Case
-- **Soal 4** - SQL Case
-
-Your task is to delve into three out of these four challenges. We grant you the flexibility to select the challenges that resonate most with your skills and confidence levels. 
-
-For each challenge, you'll find an in-depth `README.md` within its respective folder. These files contain vital instructions and context, and we urge you to read them diligently. Your adherence to these instructions will form an integral part of our evaluation.
-
-**Deadline**: Please ensure your solutions are submitted by **12th October 2023 at 16:00**.
-
-### Submission Guidelines:
-
-1. **Cloning**: Initiate your journey by cloning this repository to your local machine or preferred development environment.
-
-2. **Engage with the Challenges**: Navigate to the folders of the challenges you've chosen and immerse yourself in solving them. Ensure your solutions are well-organized, and your code is accompanied by relevant comments or documentation.
-
-3. **Committing Your Solutions**: Once a challenge is completed, commit your changes, ensuring that you've included clear commit messages describing your progress.
-
-4. **Final Push**: After wrapping up all the challenges, push your solutions back to the cloned repository. Please ensure that all your work is clearly labeled and structured within the respective challenge folders.
+**Deadline**: You've got **one week** from when you get this repository to submit your solutions. Ready, set, go!
 
 ---
 
-We genuinely appreciate the time and effort you're investing in this process. Tackle these challenges with enthusiasm and precision. Remember, it's not just about the destination (solutions), but also the journey (your approach). Best of luck!
+### 📋 **Submission Guidelines**:
+
+1. **Cloning**: Fire up your development environment and clone this repository to your local machine (or whatever setup you prefer). Let’s get this show on the road!
+
+2. **Dive into the Challenges**: Head over to the folders of the challenges you’ve chosen and start solving. Organize your solutions like a pro and make sure to leave clear, helpful comments in your code so we can follow along.
+
+3. **Committing Your Work**: As you make progress, commit your changes with **clear commit messages**. Think of it like a journal of your journey – we’ll be reading it!
+
+4. **Final Push**: Once you’re done with all the challenges, push your completed solutions back to the cloned repository. Make sure everything is neatly organized and labeled according to the challenge folders.
+
+---
+
+We're super excited to see how you approach these challenges. Take your time, have fun with it, and let your creativity flow. This is your chance to not only showcase your technical know-how but also how you think through complex problems. 
+
+Good luck, and may the data be with you! ✨
