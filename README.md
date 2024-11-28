@@ -9,7 +9,7 @@ We’ve put together a set of exciting challenges that are designed to bring out
 
 ### 🏁 **Repository Overview**:
 
-This repository is your playground, packed with four structured challenge directories:
+This repository is your playground, packed with three structured challenge directories:
 - **Soal 1** – Data Transformation and Analysis Case
 - **Soal 2** – SQL Case
 - **Soal 3** – ETL Case
